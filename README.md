@@ -1,1 +1,3 @@
-# temple-suites.github.io
+# temple_suites.github.io
+
+This is my final project 
