@@ -1,4 +1,4 @@
-var requestURL = 'https://eddyog.github.io/temples.json';
+var requestURL = '/json/temples.json';
 var request = new XMLHttpRequest();
 
 request.open('GET', requestURL);
