@@ -90,7 +90,7 @@ body {
     overflow: hidden;
     background-color: #C1C1C3;
     position: -webkit-sticky;
-    /* Safari */
+
     position: sticky;
     top: 0;
     max-height: 2em;
@@ -206,4 +206,4 @@ body {
   
   footer {
     font-size: 1rem;
-  
+  }
